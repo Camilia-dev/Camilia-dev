@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Camilia-dev
+- 👋 Hi, I’m @CamiliaG
 - 👀 I’m interested in ... coding and graphic design
 - 🌱 I’m currently learning ... C language
 - 💞️ I’m looking to collaborate on ...
